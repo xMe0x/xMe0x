@@ -8,16 +8,22 @@ I'm Mark, this is my GitHub profile!
 ## 🛠 My Skills
 
 ### Frontend
-<img src="https://th.bing.com/th/id/OIP.rwaT41zwdT7cYK_prF8etAHaFj?pid=ImgDetMain" height="40"/>
-<img src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" height="40"/>
+<p>
+  <img src="https://th.bing.com/th/id/OIP.rwaT41zwdT7cYK_prF8etAHaFj?pid=ImgDetMain" height="60"/>
+  <img src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" height="60"/>
+</p>
 
 ### Backend
-<img src="https://miro.medium.com/v2/resize:fit:1000/0*-hi_YN6201aadrIe.png" height="40"/>
-<img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" height="40"/>
+<p>
+  <img src="https://miro.medium.com/v2/resize:fit:1000/0*-hi_YN6201aadrIe.png" height="60"/>
+  <img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" height="60"/>
+</p>
 
 ### Database
-<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Emblem.jpg" height="40"/>
-<img src="https://tse4.mm.bing.net/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?pid=ImgDetMain" height="40"/>
+<p>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Emblem.jpg" height="60"/>
+  <img src="https://tse4.mm.bing.net/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?pid=ImgDetMain" height="60"/>
+</p>
 <!--
 **xMe0x/xMe0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
