@@ -1,5 +1,12 @@
 ## Hi there 👋
+I'm Mark, this is my GitHub profile!
 
+## About Me
+- 🎓 Studying Computer Science at RMUTT
+- 💻 Interested in Full-Stack Development
+
+## 🛠 My Skills
+- Frontend : ![Banner](https://th.bing.com/th/id/OIP.rwaT41zwdT7cYK_prF8etAHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3)
 <!--
 **xMe0x/xMe0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
