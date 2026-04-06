@@ -3,12 +3,21 @@ I'm Mark, this is my GitHub profile!
 
 ## About Me
 - 🎓 Studying Computer Science at RMUTT
-- 💻 Interested in Full-Stack Development
+- 💻 Aspiring Full-Stack Developer
 
 ## 🛠 My Skills
-- Frontend : ![Banner](https://th.bing.com/th/id/OIP.rwaT41zwdT7cYK_prF8etAHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3),![Banner](https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png) 
-- Backend : ![Banner](https://miro.medium.com/v2/resize:fit:1000/0*-hi_YN6201aadrIe.png),![Banner](https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png)
-- Database : ![Banner](https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Emblem.jpg),![Banner](https://tse4.mm.bing.net/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)
+
+### Frontend
+<img src="https://th.bing.com/th/id/OIP.rwaT41zwdT7cYK_prF8etAHaFj?pid=ImgDetMain" height="40"/>
+<img src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" height="40"/>
+
+### Backend
+<img src="https://miro.medium.com/v2/resize:fit:1000/0*-hi_YN6201aadrIe.png" height="40"/>
+<img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" height="40"/>
+
+### Database
+<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Emblem.jpg" height="40"/>
+<img src="https://tse4.mm.bing.net/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?pid=ImgDetMain" height="40"/>
 <!--
 **xMe0x/xMe0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
